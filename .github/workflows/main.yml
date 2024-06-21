@@ -59,4 +59,11 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
     
-        
+    - name: Delete Workflow Runs
+      uses: Mattraks/delete-workflow-runs@main
+      continue-on-error: true
+      with:
+        token: ${{ github.token }}
+        repository: ${{github.repository}}
+        retain_days: 0
+        keep_minimum_runs: 1
