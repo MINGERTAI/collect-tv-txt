@@ -537,6 +537,17 @@ CHC影迷电影,http://122.189.195.142:888/udp/228.0.0.233:6108
 湖北经视,http://27.18.167.221:4022/udp/239.69.1.41:9886
 湖北经视,http://119.98.71.95:8888/udp/239.69.1.41:9886
 湖北经视,http://221.232.198.201:4022/udp/239.69.1.41:9886
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-9.ctv
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-3.m3u8
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-2.m3u8
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-8.ctv
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-10.ctv
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-17.ctv
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-15.ctv
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.ctv
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
 湖北综合,http://27.18.167.221:4022/udp/239.69.1.42:9892
 湖北综合,http://119.98.71.95:8888/udp/239.69.1.42:9892
 湖北综合,http://221.232.198.201:4022/udp/239.69.1.42:9892
