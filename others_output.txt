@@ -1,9 +1,9 @@
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+半島新聞,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半島新聞,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半島新聞,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半島新聞,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 環球電視,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
