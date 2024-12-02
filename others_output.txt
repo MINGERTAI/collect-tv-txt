@@ -1,5 +1,5 @@
-梨园,https://pi.0472.org/tv/hn.php?id=154
 梨园,http://120.0.52.241:8086/tsfile/live/1010_1.m3u8
+梨园,https://pi.0472.org/tv/hn.php?id=154
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -59,6 +59,7 @@ CETV-4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com/
 精品萌宠,http://[2409:8087:74d9:21::6]:80/270000001128/9900000122/index.m3u8
 炫舞未来,http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8
 法治天地,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002010/index.m3u8?IASHttpSessionId=
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
