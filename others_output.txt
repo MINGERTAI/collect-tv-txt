@@ -1,20 +1,19 @@
-新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=a7e62fc43c80123dae779bbc06ea60d5&wsTime=1745297727
-都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=478ceb2fc13c2f7e811d5cb4f821d7fc&wsTime=1745297727
-民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=bc41540c2e162dd94d7b8acf429c3101&wsTime=1745297727
-法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=e7b197ebc32e2a3d6a5349b9416e36fd&wsTime=1745297727
-公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=63712947d33c56331ebbb5f4a2bcea88&wsTime=1745297727
-河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=085d708ff6d0355d4941cf9c74cc6823&wsTime=1745297727
-电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=e1eb8daa7af325debf4120c1c7def160&wsTime=1745297727
-文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=3f46c5b49f9da19e035f5bd321dadaf5&wsTime=1745297727
-武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=a9130891909379c8affb1b4e0e55f6d2&wsTime=1745297727
-睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=3402f3eee501e2e37787aa9d6b521656&wsTime=1745297727
-移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=bafa48639c50ee37ae6d8f26e5ef04dd&wsTime=1745297727
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=2cb911b0198de7b9568678faff7fec4a&wsTime=1745297727
-国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=3d4e5388368878f7c8297ccdb87ca80c&wsTime=1745297727
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=4e2559d7c639665fc8971dc6adad8769&wsTime=1745297727
+新闻频道,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=ee7d7e3280f96711374a0c357f343dea&wsTime=1745384424
+都市频道,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=3268c8940c536e241a9d15b796c0dc09&wsTime=1745384424
+民生频道,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=33f806a84a054b57f50b5cd3b81d8a44&wsTime=1745384424
+法治频道,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=71edd303e106e3936d55da86b0ac1d5d&wsTime=1745384424
+公共频道,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=6b6e532fea5e46e5622d06db9627a580&wsTime=1745384424
+河南乡村频道,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=cd8436560b29a26b47b970d7b4016c52&wsTime=1745384424
+电视剧频道,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=93c2865e9cbb4c2040d77d3a3def4bee&wsTime=1745384424
+文物宝库,http://tvcdn.stream3.hndt.com/tv/65b5a69d017e1000aa645bea00000000_transios/playlist.m3u8?wsSecret=caded1fb5ff3397c5c6ac2d512f971ea&wsTime=1745384424
+武术频道,http://tvcdn.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000_transios/playlist.m3u8?wsSecret=f261e06f1ff071ef0450cefefa2ecd9d&wsTime=1745384424
+睛彩中原,http://tvcdn.stream3.hndt.com/tv/65b27d4c017e100039bd55c200000000_transios/playlist.m3u8?wsSecret=a98e82b0fb3ae559859553452326244e&wsTime=1745384424
+移动戏曲频道,https://tvcdn.stream3.hndt.com/tv/160ea8971f8b41f0905f88c7afe3effe_transios/playlist.m3u8?wsSecret=34034c8af189c986e64d4cede0920231&wsTime=1745384424
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=d5e1ef756755528744ffb54f458624b6&wsTime=1745384424
+国学频道,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f?wsSecret=b5b17e73a44f96767a8513c57f76c907&wsTime=1745384424
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=8b520142532d0f50319f0f8edcc849a3&wsTime=1745384424
 藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-星空卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
 CGTN, http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 北京文艺, http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
 北京体育, http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
@@ -27,7 +26,7 @@ CGTN, http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
 赵本山经典小品,http://zzy789.xyz/douyu1.php?id=9817716
 林正英,http://zzy789.xyz/douyu1.php?id=7356023
 女神金,http://zzy789.xyz/douyu1.php?id=747764
-深夜D你练神功,http://zzy789.xyz/douyu1.php?id=12421816
+久了旧知,http://zzy789.xyz/douyu1.php?id=310926
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
 Poison丶冰冰,http://zzy789.xyz/douyu1.php?id=74374
 欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
@@ -41,19 +40,20 @@ Poison丶冰冰,http://zzy789.xyz/douyu1.php?id=74374
 网神影厅,http://zzy789.xyz/douyu1.php?id=508118
 斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
 斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
-斗鱼电影HD7,http://zzy789.xyz/douyu1.php?id=20415
-斗鱼电影HD40,http://zzy789.xyz/douyu1.php?id=1226741
-可乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+贝贝影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=431460
 神乐华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
 神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
-特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 特辑电影,http://zzy789.xyz/douyu1.php?id=3637778
-粤语电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=1226741
+特辑电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
 热门港剧✔原,http://zzy789.xyz/douyu1.php?id=5522351
 经典剧集✔原,http://zzy789.xyz/douyu1.php?id=6863367
+欧美房✔原,http://zzy789.xyz/douyu1.php?id=20415
+华语影视✔原,http://zzy789.xyz/douyu1.php?id=3928
 粤语综艺,http://zzy789.xyz/douyu1.php?id=7919720
+华语影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=3928
 凌儿影院,http://zzy789.xyz/douyu1.php?id=1377142
+凌儿影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=1377142
 冰冰影厅,http://huanqiuzhibo.cn/manifest/douyu.php?id=74374
 刀刀影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=747764
 橙记港剧,http://huanqiuzhibo.cn/manifest/douyu.php?id=4549169
@@ -69,7 +69,6 @@ Poison丶冰冰,http://zzy789.xyz/douyu1.php?id=74374
 斗鱼电视剧25,http://zzy789.xyz/douyu1.php?id=7623292
 斗鱼电视剧4,http://zzy789.xyz/douyu1.php?id=4290711
 斗鱼电视剧8,http://zzy789.xyz/douyu1.php?id=5261342
-杭州影视,http://101.66.194.40:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYcJ3PdHkzUJtmPevi5x_2A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb26wc0XXKkqPiVtXlNQMiQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
