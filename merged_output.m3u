@@ -1,118 +1,100 @@
 #EXTM3U
-#EXTINF:-1 group-title="更新时间",20260116
+#EXTINF:-1 group-title="更新时间",20260117
 url
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://112.46.105.20:8009/hls/501/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://222.134.245.16:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+http://1.197.250.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-1
 rtp://239.3.1.129:8008
 #EXTINF:-1 group-title="央视频道",CCTV-1
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+#EXTINF:-1 group-title="央视频道",CCTV-1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://112.46.85.60:8009/hls/501/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1
-http://112.123.206.32:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
+http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYyLm0zdTg=
+http://222.134.245.16:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
-https://iptv.catvod.com/live.php?id=CCTV2
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-2
-http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&unique_id=stream-695106910011261612_684_flv&wsSecret=fc06766784777da294247d06ae30f581&wsTime=6966f95d
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://27.41.245.32:801/hls/2/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2
+http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100308192594C57677D9CCE8DA-vujvxt&wsSecret=5aec4b2fd09a7a40920df80db1862da9&wsTime=6966f95d
 #EXTINF:-1 group-title="央视频道",CCTV-2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-2
 rtp://239.3.1.60:8084
 #EXTINF:-1 group-title="央视频道",CCTV-2
+https://iptv.catvod.com/live.php?id=CCTV2
+#EXTINF:-1 group-title="央视频道",CCTV-2
+https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-2
 http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2
-http://27.41.245.32:801/hls/2/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-https://iptv.catvod.com/live.php?id=CCTV3
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-3
-rtp://239.3.1.172:8001
+http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-3
-http://1.24.39.180:9003/hls/3/index.m3u8
+https://iptv.catvod.com/live.php?id=CCTV3
+#EXTINF:-1 group-title="央视频道",CCTV-3
+rtp://239.3.1.172:8001
 #EXTINF:-1 group-title="央视频道",CCTV-3
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://23.237.228.134/live5/CCTV3.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3
-http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://1.24.39.180:9003/hls/4/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://111.221.137.234:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-4
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
+http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-4
-rtp://239.3.1.213:4220
-#EXTINF:-1 group-title="央视频道",CCTV-4
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4
-rtp://239.3.1.214:4220
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-4
 rtp://239.3.1.105:8092
 #EXTINF:-1 group-title="央视频道",CCTV-4
-https://migu.188766.xyz/?migutoken=ddb00a73920fc57fd5130632e5f53397&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+rtp://239.3.1.214:4220
 #EXTINF:-1 group-title="央视频道",CCTV-4
-http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://222.134.245.16:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-4
+rtp://239.3.1.213:4220
+#EXTINF:-1 group-title="央视频道",CCTV-4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://112.46.105.20:8009/hls/503/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://1.24.39.180:9003/hls/5/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5
-rtp://239.3.1.173:8001
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-5
-http://38.75.136.137:98/gslb/dsdqca/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-5
-https://iptv.catvod.com/live.php?id=CCTV5
+http://222.134.245.16:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-5
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+rtp://239.3.1.173:8001
 #EXTINF:-1 group-title="央视频道",CCTV-5
-https://migu.188766.xyz/?migutoken=c83b4f41efe4ebc2e7b4db08353cc545&id=CCTV5p&type=yy
-#EXTINF:-1 group-title="央视频道",CCTV-5
-https://migu.188766.xyz/?migutoken=3803480da7c3ee6e07115f4bb5827c0d&id=CCTV5&type=yy
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-5+
@@ -120,847 +102,587 @@ rtp://239.3.1.130:8004
 #EXTINF:-1 group-title="央视频道",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-5+
-http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+
 https://iptv.catvod.com/live.php?id=CCTV5%2B
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-5+
+http://222.134.245.16:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
+http://27.41.245.32:801/hls/6/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://222.134.245.16:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-6
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-6
-rtp://239.3.1.174:8001
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
-#EXTINF:-1 group-title="央视频道",CCTV-6
-http://1.24.39.180:9003/hls/6/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-6
 http://38.75.136.137:98/gslb/dsdqca/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://iptv.catvod.com/live.php?id=CCTV6
 #EXTINF:-1 group-title="央视频道",CCTV-6
-http://27.41.245.32:801/hls/6/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7
-rtp://239.3.1.61:8104
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://1.24.39.180:9003/hls/7/index.m3u8
+rtp://239.3.1.174:8001
+#EXTINF:-1 group-title="央视频道",CCTV-6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道",CCTV-7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-7
+rtp://239.3.1.61:8104
+#EXTINF:-1 group-title="央视频道",CCTV-7
 http://27.41.245.32:801/hls/7/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
-https://iptv.catvod.com/live.php?id=CCTV7
-#EXTINF:-1 group-title="央视频道",CCTV-7
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-7
 http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-7
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://tvlist.top/jd/index.php?id=cctv8&qt=tkmark.direct.quickconnect.to:8014
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://27.41.245.32:801/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-8
-http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-8
-rtp://239.3.1.175:8001
+http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
+#EXTINF:-1 group-title="央视频道",CCTV-7
+http://222.134.245.16:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-8
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-8
-http://1.24.39.180:9003/hls/8/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://27.41.245.32:801/hls/9/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-8
+rtp://239.3.1.175:8001
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://27.41.245.32:801/hls/8/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8
+http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
 https://iptv.catvod.com/live.php?id=CCTV9
 #EXTINF:-1 group-title="央视频道",CCTV-9
-http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-9
 http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9
-http://1.24.39.180:9003/hls/9/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-9
-https://www.wmviv.com/iptv/bc2t.php?id=cctv9
+http://222.134.245.16:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-9
 rtp://239.3.1.62:8112
 #EXTINF:-1 group-title="央视频道",CCTV-9
-https://migu.188766.xyz/?migutoken=379ce64d80e9b2e1cd4c6deae52f24bf&id=CCTV9&type=yy
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
+http://27.41.245.32:801/hls/9/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-10
-http://112.46.105.20:8009/hls/506/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
 rtp://239.3.1.63:8116
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://1.24.39.180:9003/hls/10/index.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv10hd.m3u8?auth=testpub
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-10
+https://iptv.catvod.com/live.php?id=CCTV10
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://222.134.245.16:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
 http://27.41.245.32:801/hls/10/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-10
-https://www.wmviv.com/iptv/bc2t.php?id=cctv10
+http://tvlist.top/jd/index.php?id=cctv10&qt=222.128.15.132:8014
 #EXTINF:-1 group-title="央视频道",CCTV-10
-http://111.221.137.155:44330/tsfile/live/0010_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://1.24.39.180:9003/hls/11/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-11
-http://120.211.62.180:8000/hls/11/index.m3u8
+https://migu.188766.xyz/?migutoken=8c17679bda5d654613c2e5ae8f557dbb&id=CCTV10&type=yy
+#EXTINF:-1 group-title="央视频道",CCTV-10
+http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-11
 rtp://239.3.1.152:8120
 #EXTINF:-1 group-title="央视频道",CCTV-11
-https://migu.188766.xyz/?migutoken=50679bf783d9523c4b1a1905e6ecef93&id=CCTV11&type=yy
+http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-11
-http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv
+http://58.17.116.69:9903/tsfile/live/0011_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://69.30.246.194/live/cctv11.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-11
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV11
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://120.211.62.180:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://69.30.246.194/live/cctv12.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://222.134.245.16:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-12
+https://iptv.catvod.com/live.php?id=CCTV12
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-12
 http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-12
-http://1.24.39.180:9003/hls/12/index.m3u8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-12
 rtp://239.3.1.64:8124
-#EXTINF:-1 group-title="央视频道",CCTV-12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12
-https://iptv.catvod.com/live.php?id=CCTV12
 #EXTINF:-1 group-title="央视频道",CCTV-13
-http://120.211.62.180:8000/hls/13/index.m3u8
+http://1.197.250.30:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+rtp://239.3.1.124:8128
+#EXTINF:-1 group-title="央视频道",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://58.17.116.69:9903/tsfile/live/0013_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://pull-hls-f1.douyincdn.com/media/stream-695065543169802924/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260114100034DF4F7B64783BCEE03D62-cgFmIh&wsSecret=426253b39f3060b1699a4f284214f078&wsTime=6966f8c2
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://38.75.136.137:98/gslb/dsdqca/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="央视频道",CCTV-13
+https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
+#EXTINF:-1 group-title="央视频道",CCTV-13
+http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-13
 http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-13
-https://event.pull.hebtv.com/jishi/cp1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道",CCTV-13
-https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-13
-rtp://239.3.1.124:8128
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-13
-http://183.215.134.239:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-rtp://239.3.1.65:8132
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://27.41.245.32:801/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNC5tM3U4
+http://1.197.250.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-14
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://1.24.39.180:9003/hls/14/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://tvlist.top/jd/index.php?id=cctv14&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视频道",CCTV-14
-https://iptv.catvod.com/live.php?id=CCTV14
-#EXTINF:-1 group-title="央视频道",CCTV-14
-http://69.30.246.194/live/cctv14.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14
-https://migu.188766.xyz/?migutoken=a88c4a7f0ab1ef6fc77695ba6364e19a&id=CCTV14&type=yy
+rtp://239.3.1.65:8132
 #EXTINF:-1 group-title="央视频道",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-14
-http://38.75.136.137:98/gslb/dsdqca/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://tvlist.top/jd/index.php?id=cctv15&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://23.237.228.134/live3/CCTV15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://1.24.39.180:9003/hls/15/index.m3u8
+https://iptv.catvod.com/live.php?id=CCTV14
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://27.41.245.32:801/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://120.211.62.180:8000/hls/14/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://58.17.116.69:9903/tsfile/live/0014_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://sun135790.x3322.net:9901/tsfile/live/16021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-14
+http://222.134.245.16:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-15
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-15
 http://38.75.136.137:98/gslb/dsdqca/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://69.30.246.194/live/cctv15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15
-https://iptv.catvod.com/live.php?id=CCTV15
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道",CCTV-15
 rtp://239.3.1.153:8136
 #EXTINF:-1 group-title="央视频道",CCTV-15
-http://111.221.137.234:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道",CCTV-15
-https://migu.188766.xyz/?migutoken=2cb9710f66c0867550f587728594bf23&id=CCTV15&type=yy
-#EXTINF:-1 group-title="央视频道",CCTV-15
-http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道",CCTV-15
 http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://69.30.246.194/live/cctv15.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://58.17.116.69:9903/tsfile/live/0015_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="央视频道",CCTV-15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-15
+http://222.134.245.16:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
-rtp://239.3.1.184:8001
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://1.24.39.180:9003/hls/60/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16
-http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="央视频道",CCTV-16
-https://iptv.catvod.com/live.php?id=CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-16
-https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 #EXTINF:-1 group-title="央视频道",CCTV-16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="央视频道",CCTV-16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-16
+rtp://239.3.1.184:8001
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://120.211.62.180:8000/hls/17/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
-https://iptv.catvod.com/live.php?id=CCTV17
+http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
-rtp://239.3.1.151:8144
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="央视频道",CCTV-17
-http://23.237.228.134/live3/CCTV17.m3u8
+http://222.134.245.16:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV-17
-http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+rtp://239.3.1.151:8144
 #EXTINF:-1 group-title="央视频道",CCTV-17
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
-#EXTINF:-1 group-title="央视频道",CCTV-第一剧场
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-央视台球
-https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-风云足球
-http://27.41.245.32:801/hls/906/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-风云足球
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-世界地理
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-女性时尚
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-女性时尚
-http://111.61.236.247:9081/hls/59/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-女性时尚
-http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-怀旧剧场
-http://111.61.236.247:9081/hls/67/index.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-电视指南
-http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-#EXTINF:-1 group-title="央视频道",CCTV-4K
-https://iptv.catvod.com/live.php?id=CCTV4K
 #EXTINF:-1 group-title="央视频道",CCTV-4K
 rtp://239.3.1.245:2000
-#EXTINF:-1 group-title="央视频道",CCTV-8K
-https://iptv.catvod.com/live.php?id=CCTV8K
-#EXTINF:-1 group-title="央视频道",CCTV-20241
-https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://58.17.116.69:9903/tsfile/live/0107_2.m3u8?key=txiptv&playlive=0&authid=0
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
+http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+rtp://239.3.1.119:3006
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",东方卫视
 http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东方卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视频道",东方卫视
-rtp://239.3.1.119:3006
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://69.30.246.194/live/dfws.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
+https://migu.188766.xyz/?migutoken=39bcb198cbd639b3a14bf3d55e4f64a6&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 group-title="卫视频道",东方卫视
 https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",东方卫视
+http://69.30.246.194/live/dfws.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://58.17.116.69:9903/tsfile/live/0107_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",东方卫视
+http://tvlist.top/jd/index.php?id=dfws&qt=183.224.122.114:8014
+#EXTINF:-1 group-title="卫视频道",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://61.156.228.12:8154/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://genglei.8866.org:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",东方卫视
-http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
-#EXTINF:-1 group-title="卫视频道",东方卫视
-https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://112.27.235.94:8000/hls/29/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://btjg.net:809/hls/29/index.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://58.17.116.69:9903/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://61.156.228.12:8154/tsfile/live/0124_1.m3u8
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-http://111.221.137.234:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",浙江卫视
-https://www.wmviv.com/iptv/bc2t.php?id=zjws
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 rtp://239.3.1.114:3004
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-https://play-qukan.cztv.com/live/1746687519046362.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
+https://play-qukan.cztv.com/live/1746687519046362.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://39.134.65.175/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 group-title="卫视频道",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://111.221.137.234:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://69.30.246.194/live/hnws.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://218.17.33.178:53290/tsfile/live/0128_1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://38.75.136.137:98/gslb/dsdqca/hnwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://btjg.net:809/hls/47/index.m3u8
-#EXTINF:-1 group-title="卫视频道",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+http://58.17.116.69:9903/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://migu.188766.xyz/?migutoken=320402ef3c6ef1b9bc2f10201766055e&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 rtp://239.3.1.112:3002
 #EXTINF:-1 group-title="卫视频道",湖南卫视
-http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://23.237.228.134/live6/hunan.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://58.17.116.69:9903/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://222.134.245.16:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8
+http://38.75.136.137:98/gslb/dsdqca/jswshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+http://69.30.246.194/live/jsws.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
+http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
 rtp://239.3.1.113:3003
 #EXTINF:-1 group-title="卫视频道",江苏卫视
+https://migu.188766.xyz/?migutoken=7188277c41298adc8d158152f79d5ee1&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://58.17.116.69:9903/tsfile/live/0127_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://27.41.245.32:801/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+https://migu.188766.xyz/?migutoken=e02ffc9d5a08d0b21ed620c8ce0da9ba&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://38.75.136.137:98/gslb/dsdqpub/jswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+http://222.134.245.16:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",江苏卫视
 http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="卫视频道",江苏卫视
-http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://111.221.137.234:44330/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://58.17.116.69:9903/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://btjg.net:809/hls/42/index.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
-#EXTINF:-1 group-title="卫视频道",安徽卫视
-http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 rtp://239.3.1.211:8064
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://sun135790.x3322.net:9901/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
+http://58.17.116.69:9903/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://120.211.62.180:8000/hls/33/index.m3u8
+https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://222.214.208.34:59901/tsfile/live/0130_1.m3u8
+http://222.134.245.16:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://genglei.8866.org:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://38.75.136.137:98/gslb/dsdqpub/ahwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://1.197.250.30:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",安徽卫视
 http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 group-title="卫视频道",安徽卫视
-http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://sun135790.x3322.net:9901/tsfile/live/16042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
 rtp://239.3.1.156:8148
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://23.237.228.134/live8/gansu.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://btjg.net:809/hls/44/index.m3u8
+https://my5353.com/FtbXAe
 #EXTINF:-1 group-title="卫视频道",东南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://120.211.62.180:8000/hls/34/index.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 group-title="卫视频道",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 group-title="卫视频道",东南卫视
-http://112.27.235.94:8000/hls/38/index.m3u8
+https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://23.237.228.134/live8/yunnan.m3u8
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://genglei.8866.org:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://120.211.62.180:8000/hls/39/index.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://111.221.137.155:44330/tsfile/live/0116_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://222.169.85.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",云南卫视
 https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
+http://23.237.228.134/live8/yunnan.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://112.27.235.94:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 group-title="卫视频道",云南卫视
-http://222.169.85.8:9901/tsfile/live/0119_1.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视频道",云南卫视
 http://cssbyd.imwork.net:8082/hls/36/index.m3u8
 #EXTINF:-1 group-title="卫视频道",云南卫视
-http://111.221.137.234:44330/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 group-title="卫视频道",云南卫视
+http://genglei.8866.org:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="卫视频道",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
-https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="卫视频道",兵团卫视
 http://genglei.8866.org:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",兵团卫视
-http://120.238.94.10:9901/tsfile/live/1080_1.m3u8
-#EXTINF:-1 group-title="卫视频道",兵团卫视
 rtp://239.3.1.168:8196
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://genglei.8866.org:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.188766.xyz/?migutoken=be0177d26cbcf0bd0c3be0d02e8badba&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://112.27.235.94:8000/hls/49/index.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://221.2.148.205:8154/tsfile/live/0109_1.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://111.61.236.247:9081/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-https://migu.188766.xyz/?migutoken=9b2b2ea7b65eb1fb01d9e2e487ed454f&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://61.156.228.12:8154/tsfile/live/0109_1.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://221.2.148.205:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://cssbyd.imwork.net:8082/hls/44/index.m3u8
+http://222.134.245.16:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://61.156.228.12:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.188766.xyz/?migutoken=517fc2ced2c87ff5d24c4ef5ea37453c&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://60.16.0.216:5757/hls/41/index.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",内蒙古蒙语卫视
-https://www.wmviv.com/iptv/bc2t.php?id=nmgyws
-#EXTINF:-1 group-title="卫视频道",内蒙古蒙语卫视
-http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-#EXTINF:-1 group-title="卫视频道",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="卫视频道",农林卫视
-http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="卫视频道",凤凰卫视
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="卫视频道",北京卫视
-https://migu.188766.xyz/?migutoken=e5dce9dd0e80da54cf3887327ec71efe&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://tvlist.top/jd/index.php?id=live1023&qt=tkmark.direct.quickconnect.to:8014
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",北京卫视
-rtp://239.3.1.22:8001
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-https://migu.188766.xyz/?migutoken=311f2cf9fd92038cc912552094d6b463&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://222.134.245.16:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://tvlist.top/jd/index.php?id=bjws&qt=183.224.122.114:8014
 #EXTINF:-1 group-title="卫视频道",北京卫视
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 group-title="卫视频道",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8
+http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
 #EXTINF:-1 group-title="卫视频道",北京卫视
 https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",北京卫视
+rtp://239.3.1.22:8001
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",北京卫视
 http://58.17.116.69:9903/tsfile/live/0122_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",北京卫视
-http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://genglei.8866.org:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-rtp://239.3.1.240:8172
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://23.237.228.134/live8/jilin.m3u8
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://sun135790.x3322.net:9901/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-http://111.221.137.234:44330/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",吉林卫视
-https://migu.188766.xyz/?migutoken=f0b6f392a48f76371ad30c1ab4fca301&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="卫视频道",吉林卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://36.32.174.67:60080/newlive/live/hls/40/live.m3u8
+http://222.134.245.16:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-https://migu.188766.xyz/?migutoken=72de2bce525ce45747ebc9b62f6622c1&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://cssbyd.imwork.net:8082/hls/41/index.m3u8
+rtp://239.3.1.240:8172
 #EXTINF:-1 group-title="卫视频道",吉林卫视
-http://tvlist.top/jd/index.php?id=jlws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://60.16.0.216:5757/hls/30/index.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=03
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
-http://btjg.net:809/hls/48/index.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://111.221.137.234:44330/tsfile/live/0137_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
-#EXTINF:-1 group-title="卫视频道",四川卫视
-rtp://239.3.1.131:3001
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://genglei.8866.org:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://218.17.33.178:53290/tsfile/live/0123_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="卫视频道",四川卫视
-http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+http://58.17.116.69:9903/tsfile/live/0123_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="卫视频道",四川卫视
+rtp://239.3.1.131:3001
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://222.134.245.16:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",四川卫视
 http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 group-title="卫视频道",大湾区卫视
-https://migu.188766.xyz/?migutoken=7924174c7d55ccad4a2cf21add185dad&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",四川卫视
+http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+#EXTINF:-1 group-title="卫视频道",四川卫视
+https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",天津卫视
-rtp://239.3.1.141:1234
+http://38.75.136.137:98/gslb/dsdqca/tjwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://genglei.8866.org:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://60.16.0.216:5757/hls/34/index.m3u8
+http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://112.27.235.94:8000/hls/42/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
 https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://tvlist.top/jd/index.php?id=tjws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://btjg.net:809/hls/46/index.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://120.211.62.180:8000/hls/36/index.m3u8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",天津卫视
-http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",天津卫视
 http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 #EXTINF:-1 group-title="卫视频道",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://120.238.94.10:9901/tsfile/live/1076_1.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-https://migu.188766.xyz/?migutoken=e5ebdb498beb06d150da05595a961cbb&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://113.25.252.226:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",天津卫视
+rtp://239.3.1.141:1234
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-rtp://239.3.1.169:8212
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-https://migu.188766.xyz/?migutoken=012de0a3bdb81063b705ce8a52c13ecd&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
-#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
-http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+rtp://239.3.1.169:8212
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="卫视频道",宁夏卫视
 https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://111.221.137.234:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",山东卫视
-rtp://239.3.1.144:3005
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://36.32.174.67:60080/newlive/live/hls/42/live.m3u8
-#EXTINF:-1 group-title="卫视频道",山东卫视
-http://61.156.228.12:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGoxLmp4d2x0eC5jb206ODAwMy9saW54d3MubTN1OA==
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://61.156.228.12:8154/tsfile/live/0131_1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://112.27.235.94:8000/hls/34/index.m3u8
+http://222.134.245.16:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://genglei.8866.org:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+rtp://239.3.1.144:3005
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 group-title="卫视频道",山东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://btjg.net:809/hls/37/index.m3u8
+http://58.17.116.69:9903/tsfile/live/0131_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-http://btjg.net:809/hls/120/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山东教育卫视
-http://btjg.net:809/hls/112/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://60.16.0.216:5757/hls/39/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://111.61.236.247:9081/hls/47/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://222.169.85.8:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 group-title="卫视频道",山东卫视
+http://120.211.62.180:8000/hls/38/index.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://23.237.228.134/live8/shanxi.m3u8
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://61.156.228.12:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://genglei.8866.org:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://112.27.235.94:8000/hls/45/index.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://221.2.148.205:8154/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://36.32.174.67:60080/newlive/live/hls/43/live.m3u8
-#EXTINF:-1 group-title="卫视频道",山西卫视
-http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
+http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 #EXTINF:-1 group-title="卫视频道",山西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",山西卫视
 https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",山西卫视
-http://61.156.228.12:8154/tsfile/live/0118_1.m3u8
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://genglei.8866.org:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://222.134.245.16:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",山西卫视
+https://my5353.com/vh5ArK
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
+#EXTINF:-1 group-title="卫视频道",山西卫视
+http://tvlist.top/jd/index.php?id=sxws&qt=183.224.122.114:8014
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://23.237.228.134/live6/guangdong.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-https://migu.188766.xyz/?migutoken=e340defa6957148b4969a0f803fb146d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://58.17.116.69:9903/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",广东卫视
-http://btjg.net:809/hls/32/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广东卫视
-rtp://239.3.1.27:2000
+http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
+https://migu.188766.xyz/?migutoken=862714ec07e27dbf0787d108744b63d4&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://222.134.245.16:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",广东卫视
 http://112.27.235.94:8000/hls/30/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 group-title="卫视频道",广东卫视
-http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
+http://58.17.116.69:9903/tsfile/live/0125_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",广东卫视
+rtp://239.3.1.27:2000
+#EXTINF:-1 group-title="卫视频道",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://genglei.8866.org:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://cssbyd.imwork.net:8082/hls/33/index.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="卫视频道",广西卫视
-http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
+http://58.17.116.69:9903/tsfile/live/0113_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",广西卫视
 https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",广西卫视
@@ -968,399 +690,299 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视频道",广西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",广西卫视
-http://58.17.116.69:9903/tsfile/live/0113_2.m3u8?key=txiptv&playlive=0&authid=0
+http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://222.134.245.16:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",广西卫视
+http://genglei.8866.org:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 group-title="卫视频道",康巴卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
-#EXTINF:-1 group-title="卫视频道",延边卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="卫视频道",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 rtp://239.3.1.167:8192
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",新疆卫视
-http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv
+http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+http://222.134.245.16:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",新疆卫视
 http://genglei.8866.org:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",新疆卫视
-http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视频道",江西卫视
 rtp://239.3.1.123:8164
 #EXTINF:-1 group-title="卫视频道",江西卫视
-https://migu.188766.xyz/?migutoken=4d71c8bb7ff0c4ff06eac7fda6e7924e&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://112.27.235.94:8000/hls/44/index.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://genglei.8866.org:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://111.221.137.234:44330/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",江西卫视
-http://sun135790.x3322.net:9901/tsfile/live/16044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",江西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",江西卫视
+https://migu.188766.xyz/?migutoken=80fd770920459a474a970d3e03dcd28b&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 group-title="卫视频道",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="卫视频道",江西卫视
-http://www.wmviv.com/iptv/bc2t.php?id=jxws
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://120.211.62.180:8000/hls/19/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://btjg.net:809/hls/45/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河北卫视
-http://112.27.235.94:8000/hls/39/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
+#EXTINF:-1 group-title="卫视频道",江西卫视
+https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://222.134.245.16:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://1.197.250.30:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",江西卫视
+http://112.27.235.94:8000/hls/44/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
 http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
 #EXTINF:-1 group-title="卫视频道",河北卫视
-http://genglei.8866.org:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",河北卫视
 rtp://239.3.1.148:8072
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://112.27.235.94:8000/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-https://migu.188766.xyz/?migutoken=6eb70adf67f52c9b1c331d4301e3f1c5&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://120.211.62.180:8000/hls/40/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://cssbyd.imwork.net:8082/hls/37/index.m3u8
-#EXTINF:-1 group-title="卫视频道",河南卫视
-http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 group-title="卫视频道",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
 rtp://239.3.1.50:8184
 #EXTINF:-1 group-title="卫视频道",河南卫视
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1 group-title="卫视频道",河南卫视
+https://my5353.com/hZBab
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://222.134.245.16:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",河南卫视
+https://migu.188766.xyz/?migutoken=348ede165e082801c132180c82f54a88&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+#EXTINF:-1 group-title="卫视频道",河南卫视
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 group-title="卫视频道",河南卫视
 https://migu.188766.xyz/?migutoken=a5e90e687b0771a3b383a9c2e0e3f5d9&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://www.wmviv.com/iptv/bc2t.php?id=hnws
+http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://genglei.8866.org:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=644946f47901ee0017a5042806bc2062&wsTime=1768622345
 #EXTINF:-1 group-title="卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=160caf8c50822fbe1b0abbc1259cefc5&wsTime=1768536030
+http://120.211.62.180:8000/hls/40/index.m3u8
 #EXTINF:-1 group-title="卫视频道",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://cssbyd.imwork.net:8082/hls/31/index.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://genglei.8866.org:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",海南卫视
-http://sun135790.x3322.net:9901/tsfile/live/16046_1.m3u8?key=txiptv&playlive=1&authid=0
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
 http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
+#EXTINF:-1 group-title="卫视频道",海南卫视
+https://migu.188766.xyz/?migutoken=eda9ac9b347d322623f378c65f3df947&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",海南卫视
 https://migu.188766.xyz/?migutoken=d87911cb21bfa5f7e46315051936aaa1&id=hn_hnws&type=sz
 #EXTINF:-1 group-title="卫视频道",海南卫视
 https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
 #EXTINF:-1 group-title="卫视频道",海南卫视
-https://migu.188766.xyz/?migutoken=d7a97d1ad84981be65127720b09d15fd&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+https://migu.188766.xyz/?migutoken=cd0c6fb6e692e4aef9aad148c42407bf&id=hn_hnws&type=sz
 #EXTINF:-1 group-title="卫视频道",海南卫视
-https://migu.188766.xyz/?migutoken=d2061f4f32fe7d8fda9c2ab3bffd12ad&id=hn_hnws&type=sz
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+#EXTINF:-1 group-title="卫视频道",海南卫视
+http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
+http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://113.26.202.52:1299/tsfile/live/0126_1.m3u8
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
+http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视频道",深圳卫视
 rtp://239.3.1.28:2000
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://23.237.228.134/live6/shenzhen.m3u8
 #EXTINF:-1 group-title="卫视频道",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",深圳卫视
-http://111.221.137.234:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",深圳卫视
 https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://116.76.254.170:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://genglei.8866.org:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",深圳卫视
-http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://genglei.8866.org:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://sun135790.x3322.net:9901/tsfile/live/16031_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://222.214.208.34:59901/tsfile/live/0132_1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",湖北卫视
-http://23.237.228.134/live6/hubei.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
+http://112.27.235.94:8000/hls/41/index.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://btjg.net:809/hls/31/index.m3u8
+http://23.237.228.134/live6/hubei.m3u8
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",湖北卫视
 rtp://239.3.1.138:8044
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://111.221.137.234:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.134.245.16:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://120.238.94.10:9901/tsfile/live/1079_1.m3u8?key=txiptv
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
 rtp://239.3.1.201:8180
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://genglei.8866.org:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+https://liveout.gstv.com.cn/skt649/nd6ycc.m3u8
 #EXTINF:-1 group-title="卫视频道",甘肃卫视
-http://tvlist.top/jd/index.php?id=live1053&qt=tkmark.direct.quickconnect.to:8014
+http://222.134.245.16:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",莲花卫视
 https://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:-1 group-title="卫视频道",蒙语卫视
 https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-rtp://239.3.1.166:8188
-#EXTINF:-1 group-title="卫视频道",西藏卫视
-http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",西藏卫视
 https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+http://php.jdshipin.com/xztv.php?id=ws
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+rtp://239.3.1.166:8188
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://genglei.8866.org:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",西藏卫视
-http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 rtp://239.3.1.149:8076
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://222.214.208.34:59901/tsfile/live/0120_1.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://tvlist.top/jd/index.php?id=gzws&qt=183.224.122.114:8014
+http://112.27.235.94:8000/hls/46/index.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://btjg.net:809/hls/34/index.m3u8
+http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
-http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
+http://23.237.228.134/live6/guizhou.m3u8
 #EXTINF:-1 group-title="卫视频道",贵州卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://genglei.8866.org:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",贵州卫视
-http://112.27.235.94:8000/hls/46/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://sun135790.x3322.net:9901/tsfile/live/16032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://58.17.116.69:9903/tsfile/live/0121_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-rtp://239.3.1.210:8056
+http://112.27.235.94:8000/hls/47/index.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+rtp://239.3.1.210:8056
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 http://120.211.62.180:8000/hls/37/index.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://111.221.137.234:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.134.245.16:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://www.wmviv.com/iptv/bc2t.php?id=lnws
+https://migu.188766.xyz/?migutoken=6fc432ffcb0aa2222121648e1b44f03a&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
 https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",辽宁卫视
-https://migu.188766.xyz/?migutoken=ef2f73363482bbffc93c1b693944303d&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="卫视频道",辽宁卫视
-http://genglei.8866.org:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://58.17.116.69:9903/tsfile/live/0142_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://111.221.137.234:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://genglei.8866.org:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://btjg.net:809/hls/54/index.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
-#EXTINF:-1 group-title="卫视频道",重庆卫视
-http://tvlist.top/jd/index.php?id=live1041&qt=tkmark.direct.quickconnect.to:8014
+http://1.197.250.30:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://112.27.235.94:8000/hls/36/index.m3u8
 #EXTINF:-1 group-title="卫视频道",重庆卫视
+http://23.237.228.134/live6/chongqing.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
 rtp://239.3.1.122:8160
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+http://58.17.116.69:9903/tsfile/live/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="卫视频道",重庆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",重庆卫视
-http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
+http://222.134.245.16:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://www.wmviv.com/iptv/bc2t.php?id=sxws
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://117.36.76.86:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://221.2.148.205:8154/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-https://migu.188766.xyz/?migutoken=c46d49279b74b54cd756dc1f7ee94d39&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://61.156.228.12:8154/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://cssbyd.imwork.net:8082/hls/42/index.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://120.238.94.10:9901/tsfile/live/1070_1.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://124.116.183.146:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://222.169.85.8:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.134.245.16:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://112.27.235.94:8000/hls/43/index.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://23.237.228.134/live6/sichuan.m3u8
+http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8
 #EXTINF:-1 group-title="卫视频道",陕西卫视
-http://61.156.228.12:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://221.2.148.205:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",陕西卫视
-http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",陕西卫视
 http://genglei.8866.org:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://genglei.8866.org:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="卫视频道",青海卫视
+http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",青海卫视
 https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
 #EXTINF:-1 group-title="卫视频道",青海卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://genglei.8866.org:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",青海卫视
-https://migu.188766.xyz/?migutoken=498034b126f19c3de50143c43d9fd29c&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="卫视频道",青海卫视
-http://23.237.228.134/live8/qinghai.m3u8
 #EXTINF:-1 group-title="卫视频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://tvlist.top/jd/index.php?id=hljws&qt=183.224.122.114:8014
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://39.134.67.108/PLTV/88888888/224/3221225994/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+rtp://239.3.1.133:8016
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226532/index.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+http://222.134.245.16:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225994/1.m3u8
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="卫视频道",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-rtp://239.3.1.133:8016
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视
-http://genglei.8866.org:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="卫视频道",三沙卫视
 https://migu.188766.xyz/?migutoken=d8ddd0576c0bc222f8837fcea4b80769&id=hn_ssws&type=sz
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-#EXTINF:-1 group-title="卫视频道",三沙卫视
-https://migu.188766.xyz/?migutoken=9f8e7826e5291edbf8e966a59c38e010&id=hn_ssws&type=sz
-#EXTINF:-1 group-title="卫视频道",三沙卫视
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 #EXTINF:-1 group-title="卫视频道",三沙卫视
-https://www.wmviv.com/iptv/bc2t.php?id=ssws
-#EXTINF:-1 group-title="卫视频道",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
+#EXTINF:-1 group-title="卫视频道",三沙卫视
+https://migu.188766.xyz/?migutoken=053b95cc9854161ab2d3ec4a19a64762&id=hn_ssws&type=sz
 #EXTINF:-1 group-title="体育频道",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 group-title="体育频道",精品体育
@@ -1373,10 +995,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="体育频道",足球频道
 https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-#EXTINF:-1 group-title="电影频道",CHC动作电影
-http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-#EXTINF:-1 group-title="电影频道",CHC动作电影
-http://live.nctv.top/huya.php?id=11602077
 #EXTINF:-1 group-title="电影频道",CHC动作电影
 https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 #EXTINF:-1 group-title="电影频道",CHC家庭影院
@@ -1450,21 +1068,15 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-4.ctv
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
 #EXTINF:-1 group-title="港澳台",凤凰资讯
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 group-title="港澳台",凤凰资讯
 http://iptv.4666888.xyz/iptv2A.php?id=61
 #EXTINF:-1 group-title="港澳台",凤凰资讯
 https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
-#EXTINF:-1 group-title="港澳台",凤凰资讯
-https://t.freetv.fun/live/feng-huang-zi-xun-1.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰香港
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
 #EXTINF:-1 group-title="港澳台",凤凰香港
 http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 #EXTINF:-1 group-title="港澳台",凤凰香港
 http://iptv.4666888.xyz/iptv2A.php?id=62
-#EXTINF:-1 group-title="港澳台",凤凰香港
-https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰香港
 https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 #EXTINF:-1 group-title="港澳台",凤凰香港
@@ -1544,7 +1156,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 group-title="动画片",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="戏曲频道",梨园频道
-https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=bd37221b096f658b0cd12a63cae6b816&wsTime=1768536030
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=cbaa3603682eca4e92d1af2187574b50&wsTime=1768622345
 #EXTINF:-1 group-title="解说频道",七龙珠「解说」
 https://live.iill.top/huya/25650806
 #EXTINF:-1 group-title="解说频道",动漫•1「解说」
